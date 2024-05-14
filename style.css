@@ -7,6 +7,10 @@
     font-family: 'Ubuntu Sans', sans-serif;
 }
 
+main {
+    padding-top: 80px;
+}
+
 .links a{
     color: black;
     text-decoration: none;
